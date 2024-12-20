@@ -3,8 +3,8 @@ This DBMS will manage animals and exhibits at a zoo. It will handle various enti
 ## Purpose
 The zoo management system’s main responsibility is to keep track of which zookeepers are tending to each enclosure, along with organizing all the animals into exhibits. Other responsibilities will include recording the number of each animal in the zoo and assigning exhibit supervisors.
 ## Key Entities
-●	ZOOKEEPER
-●	ANIMAL
+●	ZOOKEEPER\
+●	ANIMAL\
 ●	EXHIBIT
 ## Relationships Between Entities
 ●	Each animal is **part of** an exhibit.\
