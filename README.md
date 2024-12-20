@@ -7,17 +7,17 @@ The zoo management system’s main responsibility is to keep track of which zook
 ●	ANIMAL
 ●	EXHIBIT
 ## Relationships Between Entities
-●	Each animal is **part of** an exhibit.
-●	Each animal is **assigned** a zookeeper.
-●	A zookeeper can be a **manager** for an exhibit.
-●	A zookeeper can **supervise** other zookeepers.
+●	Each animal is **part of** an exhibit.\
+●	Each animal is **assigned** a zookeeper.\
+●	A zookeeper can be a **manager** for an exhibit.\
+●	A zookeeper can **supervise** other zookeepers.\
 ## Intended Use Cases
-●	Users can add/remove an animal from the database. 
-●	Users can increase/decrease the number of each animal.
-●	Users can add/remove zookeepers from the database.
-●	Users can add/remove exhibits from the database. Removing exhibits will remove any animals associated with the exhibit.
-●	Users can change an animal’s zookeeper.
-●	Users can view the animals and their chosen names in each exhibit.
-●	Users can add zookeepers and assign them to animals.
-●	Users can assign supervisors to exhibits.
+●	Users can add/remove an animal from the database. \
+●	Users can increase/decrease the number of each animal.\
+●	Users can add/remove zookeepers from the database.\
+●	Users can add/remove exhibits from the database. Removing exhibits will remove any animals associated with the exhibit.\
+●	Users can change an animal’s zookeeper.\
+●	Users can view the animals and their chosen names in each exhibit.\
+●	Users can add zookeepers and assign them to animals.\
+●	Users can assign supervisors to exhibits.\
 
