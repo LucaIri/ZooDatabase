@@ -10,7 +10,7 @@ The zoo management system’s main responsibility is to keep track of which zook
 ●	Each animal is **part of** an exhibit.\
 ●	Each animal is **assigned** a zookeeper.\
 ●	A zookeeper can be a **manager** for an exhibit.\
-●	A zookeeper can **supervise** other zookeepers.\
+●	A zookeeper can **supervise** other zookeepers.
 ## Intended Use Cases
 ●	Users can add/remove an animal from the database. \
 ●	Users can increase/decrease the number of each animal.\
@@ -19,5 +19,5 @@ The zoo management system’s main responsibility is to keep track of which zook
 ●	Users can change an animal’s zookeeper.\
 ●	Users can view the animals and their chosen names in each exhibit.\
 ●	Users can add zookeepers and assign them to animals.\
-●	Users can assign supervisors to exhibits.\
+●	Users can assign supervisors to exhibits.
 
